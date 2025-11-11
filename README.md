@@ -1,2 +1,2 @@
 # personal-task-manager
-Personal Task Manager backend using Spring Boot + React  with authentication , CRUD and Docker deployment.
+Personal Task Manager a full-stack web app using Spring Boot + React  with authentication , CRUD and Docker deployment.
